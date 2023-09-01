@@ -5,7 +5,7 @@ for(let i=1;i<=number;i++){
         fac++
     }
 }
-if(fac>2){
+if(fac=2){
     console.log("prime")
 }
 else{
