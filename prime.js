@@ -1,3 +1,5 @@
+>>>>>this is the code
+
 let number=5;
 let fac=0;
 for(let i=1;i<=number;i++){
@@ -11,3 +13,5 @@ if(fac=2){
 else{
     console.log("Not Prime")
 };
+
+>>>>>this is the code
