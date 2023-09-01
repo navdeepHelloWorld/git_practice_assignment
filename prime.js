@@ -10,4 +10,4 @@ if(fac=2){
 }
 else{
     console.log("Not Prime")
-}
+};
