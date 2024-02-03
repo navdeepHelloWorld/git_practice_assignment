@@ -1,12 +1,17 @@
-let num =5
+
+
 function checkPrime(num){
-    if(num%2==0){
-        console.log(num+" is prime ")
+  let count = 0;
+    for(let i=1; i<=num; i++){
+    if(num%i==0){
+        count++
+    }}
+    if(count==2){
+        console.log(num + " is a prime number")
+    }else {
+        console.log(num + " is not a  prime number")
     }
-    else{
-        console.log(num+" is not prime ")
-    }
-}
+
 
 
 
