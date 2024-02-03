@@ -1,9 +1,10 @@
-function checkPrime(){
+let num =5
+function checkPrime(num){
     if(num%2==0){
-        console.log("num is prime ")
+        console.log(num+" is prime ")
     }
     else{
-        return num is not prime 
+        console.log(num+" is not prime ")
     }
 }
 
